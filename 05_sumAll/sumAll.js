@@ -17,9 +17,6 @@ const sumAll = function(x, y) {
         }
         return total;
     }
-    else {
-        return "ERROR";
-    }
 };
 
 // Do not edit below this line
